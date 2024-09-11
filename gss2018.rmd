@@ -185,3 +185,14 @@ The null hypothesis was "A persons performance on the wordsum test is not indepe
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+Question 1 conclusion and discussion : In conclusion people that own guns are 2.3 times more likely to favor capital punishment, than people who don't own guns.
+
+Question 2 conclusion and discussion : In conslucion people who voted in 2012 had an average of 16 years of education while people who didn't vote in 2012 averaged an education of 13 years. 
+
+
+Question 3 conclusion and discussion : In conclusion there is a slight difference in the data for each group, people with higher education had better scores, while lower educations had worse scores. The higher education had the higher scores while LT highschool had the lowest scores people with bachelors degrees had the highest scores. 
+
+
+
+
